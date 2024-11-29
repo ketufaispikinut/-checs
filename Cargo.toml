@@ -1,0 +1,9 @@
+[package]
+name = "chess"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bracket-terminal = "0.8.7"
+line_drawing = "1.0.0"
+rand = "0.8.5"
